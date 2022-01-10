@@ -1,13 +1,10 @@
+export type Source<T> = AsyncIterable<T> | Iterable<T>;
 
-export interface Sink<T> {
-  (source: AsyncIterable<T>): Promise<void>
+export interface Sink<T, R = Promise<void>> {
+    (source: Source<T>): R;
 }
 
-export interface Source<T> {
-  (source: AsyncIterable<T>): Promise<void>
-}
-
-export interface Duplex<T> {
-  source: Source<T>
-  sink: Sink<T>
+export interface Duplex<TSource, TSink = TSource, RSink = Promise<void>> {
+    source: Source<TSource>;
+    sink: Sink<TSink, RSink>;
 }
