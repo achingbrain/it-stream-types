@@ -1,3 +1,10 @@
+### [1.0.2](https://github.com/achingbrain/it-stream-types/compare/v1.0.1...v1.0.2) (2022-01-10)
+
+
+### Bug Fixes
+
+* add transform stream type ([#2](https://github.com/achingbrain/it-stream-types/issues/2)) ([a102eea](https://github.com/achingbrain/it-stream-types/commit/a102eea1b7d5ce1b3fb4068f77c387244a72d0d4))
+
 ### [1.0.1](https://github.com/achingbrain/it-stream-types/compare/v1.0.0...v1.0.1) (2022-01-10)
 
 
