@@ -1,3 +1,7 @@
+export interface Transform<A, B> {
+  (source: Source<A>): Source<B>
+}
+
 export type Source<T> = AsyncIterable<T> | Iterable<T>
 
 export interface Sink<T, R = Promise<void>> {
