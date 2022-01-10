@@ -4,7 +4,7 @@
 [![Dependencies Status](https://david-dm.org/achingbrain/it-stream-types/status.svg)](https://david-dm.org/achingbrain/it-stream-types)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-> Typescript types for sink/source/duplex streams
+> Typescript types for AsyncIterable sink/source/duplex streams
 
 ## Install
 
