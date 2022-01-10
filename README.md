@@ -1,6 +1,6 @@
 # it-stream-types
 
-[![Build Status](https://github.com/achingbrain/it-stream-types/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/achingbrain/it-stream-types/actions/new)
+[![Build Status](https://github.com/achingbrain/it-stream-types/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/achingbrain/it-stream-types/actions/workflows/main.yml)
 [![Dependencies Status](https://david-dm.org/achingbrain/it-stream-types/status.svg)](https://david-dm.org/achingbrain/it-stream-types)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
