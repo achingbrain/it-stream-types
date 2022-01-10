@@ -99,10 +99,10 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/achingbrain/stream-types.git"
+    "url": "git+https://github.com/achingbrain/it-stream-types.git"
   },
   "bugs": {
-    "url": "https://github.com/achingbrain/stream-types/issues"
+    "url": "https://github.com/achingbrain/it-stream-types/issues"
   },
-  "homepage": "https://github.com/achingbrain/stream-types#readme"
+  "homepage": "https://github.com/achingbrain/it-stream-types#readme"
 }

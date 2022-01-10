@@ -22,7 +22,7 @@ import type { Duplex } from 'it-stream-types'
 
 ## Contribute
 
-Feel free to dive in! [Open an issue](https://github.com/achingbrain/stream-types/issues/new) or submit PRs.
+Feel free to dive in! [Open an issue](https://github.com/achingbrain/it-stream-types/issues/new) or submit PRs.
 
 ## License
 
