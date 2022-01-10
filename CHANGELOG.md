@@ -1,3 +1,10 @@
+### [1.0.1](https://github.com/achingbrain/it-stream-types/compare/v1.0.0...v1.0.1) (2022-01-10)
+
+
+### Bug Fixes
+
+* update types ([#1](https://github.com/achingbrain/it-stream-types/issues/1)) ([1ba6ce6](https://github.com/achingbrain/it-stream-types/commit/1ba6ce669b9193f5185fdce09c23d105f7702bbc))
+
 ## 1.0.0 (2022-01-10)
 
 
