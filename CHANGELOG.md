@@ -1,3 +1,10 @@
+### [1.0.3](https://github.com/achingbrain/it-stream-types/compare/v1.0.2...v1.0.3) (2022-01-11)
+
+
+### Bug Fixes
+
+* fix up sink output types ([#3](https://github.com/achingbrain/it-stream-types/issues/3)) ([3271588](https://github.com/achingbrain/it-stream-types/commit/3271588fa5fa4ddae4a9861b242fd8ab7541804a))
+
 ### [1.0.2](https://github.com/achingbrain/it-stream-types/compare/v1.0.1...v1.0.2) (2022-01-10)
 
 
