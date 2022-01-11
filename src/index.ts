@@ -8,7 +8,7 @@ export interface Sink<T, R> {
 
 export type Source<T> = AsyncIterable<T> | Iterable<T>
 
-export interface Duplex<TSource, TSink = TSource, RSink = void> {
+export interface Duplex<TSource, TSink = TSource, RSink = Promise<void>> {
   source: Source<TSource>
   sink: Sink<TSink, RSink>
 }
