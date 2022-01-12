@@ -1,8 +1,8 @@
-export interface Transform<A, B> {
+export interface Transform<A, B = A> {
   (source: Source<A>): Source<B>
 }
 
-export interface Sink<T, R> {
+export interface Sink<T, R = Promise<void>> {
   (source: Source<T>): R
 }
 
