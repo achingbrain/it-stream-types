@@ -1,3 +1,10 @@
+### [1.0.4](https://github.com/achingbrain/it-stream-types/compare/v1.0.3...v1.0.4) (2022-01-12)
+
+
+### Bug Fixes
+
+* add default types ([#4](https://github.com/achingbrain/it-stream-types/issues/4)) ([d583f04](https://github.com/achingbrain/it-stream-types/commit/d583f04f08131f52ff3b49fa649ca071f213ad0f))
+
 ### [1.0.3](https://github.com/achingbrain/it-stream-types/compare/v1.0.2...v1.0.3) (2022-01-11)
 
 
