@@ -1,15 +1,22 @@
-# it-stream-types
+# it-stream-types <!-- omit in toc -->
 
-[![Build Status](https://github.com/achingbrain/it-stream-types/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/achingbrain/it-stream-types/actions/workflows/main.yml)
-[![Dependencies Status](https://david-dm.org/achingbrain/it-stream-types/status.svg)](https://david-dm.org/achingbrain/it-stream-types)
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![codecov](https://img.shields.io/codecov/c/github/achingbrain/it-stream-types.svg?style=flat-square)](https://codecov.io/gh/achingbrain/it-stream-types)
+[![CI](https://img.shields.io/github/actions/workflow/status/achingbrain/it-stream-types/js-test-and-release.yml?branch=master\&style=flat-square)](https://github.com/achingbrain/it-stream-types/actions/workflows/js-test-and-release.yml?query=branch%3Amaster)
 
 > Typescript types for AsyncIterable sink/source/duplex streams
 
+## Table of contents <!-- omit in toc -->
+
+- [Install](#install)
+- [Usage](#usage)
+- [API Docs](#api-docs)
+- [License](#license)
+- [Contribution](#contribution)
+
 ## Install
 
-```sh
-npm i it-stream-types
+```console
+$ npm i it-stream-types
 ```
 
 ## Usage
@@ -20,10 +27,17 @@ import type { Duplex } from 'it-stream-types'
 ...
 ```
 
-## Contribute
+## API Docs
 
-Feel free to dive in! [Open an issue](https://github.com/achingbrain/it-stream-types/issues/new) or submit PRs.
+- <https://achingbrain.github.io/it-stream-types>
 
 ## License
 
-[Apache 2.0](LICENSE-APACHE) or [MIT](LICENSE-MIT)
+Licensed under either of
+
+- Apache 2.0, ([LICENSE-APACHE](LICENSE-APACHE) / <http://www.apache.org/licenses/LICENSE-2.0>)
+- MIT ([LICENSE-MIT](LICENSE-MIT) / <http://opensource.org/licenses/MIT>)
+
+## Contribution
+
+Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in the work by you, as defined in the Apache-2.0 license, shall be dual licensed as above, without any additional terms or conditions.
