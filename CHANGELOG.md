@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/achingbrain/it-stream-types/compare/v1.0.4...v1.0.5) (2022-12-16)
+
+
+### Documentation
+
+* publish api docs ([#36](https://github.com/achingbrain/it-stream-types/issues/36)) ([76ef76d](https://github.com/achingbrain/it-stream-types/commit/76ef76dfa765f8ec934231414431b211f28a9438))
+
 ### [1.0.4](https://github.com/achingbrain/it-stream-types/compare/v1.0.3...v1.0.4) (2022-01-12)
 
 
