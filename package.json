@@ -129,6 +129,6 @@
     "docs": "aegir docs"
   },
   "devDependencies": {
-    "aegir": "^37.7.8"
+    "aegir": "^38.1.2"
   }
 }
