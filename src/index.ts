@@ -12,7 +12,7 @@ export interface Transform<A, B = A> {
  * function that takes a source and iterates over it. It optionally returns
  * a value.
  */
-export interface Sink<Source, R = Promise<void>> {
+export interface Sink<Source, R = unknown> {
   (source: Source): R
 }
 
@@ -32,7 +32,7 @@ export type Source<T> = AsyncIterable<T> | Iterable<T>
  * necessarily connected to the values that can be consumed from it. It is
  * an object with two properties, sink and source.
  */
-export interface Duplex<TSource = unknown, TSink = TSource, RSink = Promise<void>> {
+export interface Duplex<TSource = unknown, TSink = TSource, RSink = unknown> {
   source: TSource
   sink: Sink<TSink, RSink>
 }
