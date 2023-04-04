@@ -1,6 +1,6 @@
 {
   "name": "it-stream-types",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Typescript types for AsyncIterable sink/source/duplex streams",
   "author": "Alex Potsides <alex@achingbrain.net>",
   "license": "Apache-2.0 OR MIT",

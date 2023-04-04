@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/achingbrain/it-stream-types/compare/v2.0.0...v2.0.1) (2023-04-04)
+
+
+### Bug Fixes
+
+* default sink return type to unknown ([#46](https://github.com/achingbrain/it-stream-types/issues/46)) ([f4b7fc7](https://github.com/achingbrain/it-stream-types/commit/f4b7fc78f7a15c44c74ddfe4ae19ca23d81a02ff))
+
 ## [2.0.0](https://github.com/achingbrain/it-stream-types/compare/v1.0.5...v2.0.0) (2023-04-04)
 
 
