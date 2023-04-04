@@ -1,3 +1,14 @@
+## [2.0.0](https://github.com/achingbrain/it-stream-types/compare/v1.0.5...v2.0.0) (2023-04-04)
+
+
+### ⚠ BREAKING CHANGES
+
+* the `TSource` and `TSink` generic arguments to the `Duplex` type now refer to the stream type and not the type of objects yielded by the stream
+
+### Bug Fixes
+
+* be explicit about sync/async behaviour ([#45](https://github.com/achingbrain/it-stream-types/issues/45)) ([374296f](https://github.com/achingbrain/it-stream-types/commit/374296f61a40ecd9522ca558d205728df5817dde))
+
 ## [1.0.5](https://github.com/achingbrain/it-stream-types/compare/v1.0.4...v1.0.5) (2022-12-16)
 
 
