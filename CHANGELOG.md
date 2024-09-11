@@ -1,3 +1,9 @@
+## [2.0.2](https://github.com/achingbrain/it-stream-types/compare/v2.0.1...v2.0.2) (2024-09-11)
+
+### Bug Fixes
+
+* update deps ([#48](https://github.com/achingbrain/it-stream-types/issues/48)) ([66fff78](https://github.com/achingbrain/it-stream-types/commit/66fff7800e609178cda360312db595799c9ebced))
+
 ## [2.0.1](https://github.com/achingbrain/it-stream-types/compare/v2.0.0...v2.0.1) (2023-04-04)
 
 
