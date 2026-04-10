@@ -1,3 +1,9 @@
+## [2.0.3](https://github.com/achingbrain/it-stream-types/compare/v2.0.2...v2.0.3) (2026-04-10)
+
+### Dependencies
+
+* bump aegir from 44.1.4 to 45.0.8 ([#52](https://github.com/achingbrain/it-stream-types/issues/52)) ([26814e1](https://github.com/achingbrain/it-stream-types/commit/26814e128a99dc6652ad259222888b6033876124))
+
 ## [2.0.2](https://github.com/achingbrain/it-stream-types/compare/v2.0.1...v2.0.2) (2024-09-11)
 
 ### Bug Fixes
