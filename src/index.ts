@@ -1,4 +1,16 @@
 /**
+ * @packageDocumentation
+ *
+ * Type definitions for duplex iterables.
+ *
+ * @example
+ *
+ * ```typescript
+ * import type { Duplex } from 'it-stream-types'
+ * ```
+ */
+
+/**
  * A "transform" is both a sink and a source where the values it consumes
  * and the values that can be consumed from it are connected in some way.
  * It is a function that takes a source and returns a source.
