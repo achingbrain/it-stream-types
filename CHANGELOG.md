@@ -1,3 +1,9 @@
+## [2.0.4](https://github.com/achingbrain/it-stream-types/compare/v2.0.3...v2.0.4) (2026-04-10)
+
+### Bug Fixes
+
+* update module-sync path ([#53](https://github.com/achingbrain/it-stream-types/issues/53)) ([1bae8a7](https://github.com/achingbrain/it-stream-types/commit/1bae8a7b2b5d7b37b2c2879be515f892e5fe5638))
+
 ## [2.0.3](https://github.com/achingbrain/it-stream-types/compare/v2.0.2...v2.0.3) (2026-04-10)
 
 ### Dependencies
